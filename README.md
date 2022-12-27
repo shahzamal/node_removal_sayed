@@ -1,0 +1,1 @@
+# node_removal_sayed
